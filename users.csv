@@ -1,4 +1,4 @@
 id,name,password,email,failed_login_attempts,logged_in,role
-user_1,bertrand,123456789,bertrand@gmail.com,0,False,utilisateur
-user_2,kevin,321654987,kevin@gmail.com,0,False,utilisateur
-root,root,123,sembesse2@gmail.com,0,False,administrateur
+"user_1","bertrand","123456789","bertrand@gmail.com","0","False","utilisateur"
+"user_2","kevin","321654987","kevin@gmail.com","0","False","utilisateur"
+"root","root","123","sembesse2@gmail.com","0","False","administrateur"
